@@ -1,0 +1,10 @@
+name = input()
+name2 = input()
+food = input()
+Trans = input()
+where = input()
+
+print("My name is " + name)
+print("I study at " + where + " My name is Alice.")
+print("I go to school by " + Trans + " with my classmate " + name2 + ".")
+print("We both like " + food + ".")
