@@ -26,7 +26,7 @@
 2. 進入相應的題目目錄查看題目描述和解答：
 
     ```sh
-    cd 編程題目合集/題目1
+    cd HKOI
     ```
 
 
@@ -59,5 +59,5 @@
 
 如果有任何問題或建議，請通過以下方式聯絡我：
 
-- GitHub: [你的 GitHub 頁面](https://github.com/lcy8787)
+- GitHub: [我的 GitHub 頁面](https://github.com/lcy8787)
 
