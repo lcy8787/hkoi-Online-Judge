@@ -1,6 +1,6 @@
 a = int(input())
 array = list(map(int, input().split()))
-print(max(array))
+print(array[0])
 
 for i in range(1, a):
     key = array[i]
