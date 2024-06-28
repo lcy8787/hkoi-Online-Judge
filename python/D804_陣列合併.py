@@ -13,4 +13,4 @@ for k in range(alen + blen):
         array[k] = b[j]
         j += 1
 
-print(" ".join(map(str, array[:i+1])))
+print(" ".join(map(str, array[:k+1])))
