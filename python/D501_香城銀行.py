@@ -6,7 +6,3 @@ with open('account.txt', 'r') as file:
         balance += transaction
         
 print(balance)
-    
-    
-
-
